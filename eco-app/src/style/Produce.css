@@ -1,0 +1,7 @@
+.pro_parent > h2 {
+  text-align: start;
+}
+.slid_data {
+  display: flex;
+  gap: 15px;
+}

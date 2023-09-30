@@ -1,0 +1,42 @@
+.nav_container {
+  height: 65px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffe475;
+  position: fixed;
+  top: 0;
+  z-index: 100;
+}
+.inner_nav_div {
+  width: 98%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#eco_head {
+  font-size: 22px;
+}
+.div_2nd {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+#share_log {
+  border-radius: 50px;
+  padding: 5px;
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+}
+#cart_div {
+  border-radius: 50px;
+  padding: 6px;
+  width: 60px;
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+}
